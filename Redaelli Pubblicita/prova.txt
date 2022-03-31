@@ -1,3 +1,0 @@
-{"ok":true,"result":[{"update_id":388663799,
-"message":{"message_id":3,"from":{"id":181785123,"is_bot":false,"first_name":"Ludo","username":"Ludovicored03","language_code":"it"},"chat":{"id":181785123,"first_name":"Ludo","username":"Ludovicored03","type":"private"},"date":1647001715,"text":"/ciao","entities":[{"offset":0,"length":5,"type":"bot_command"}]}},{"update_id":388663800,
-"message":{"message_id":5,"from":{"id":181785123,"is_bot":false,"first_name":"Ludo","username":"Ludovicored03","language_code":"it"},"chat":{"id":181785123,"first_name":"Ludo","username":"Ludovicored03","type":"private"},"date":1647001732,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}
